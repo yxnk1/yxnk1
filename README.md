@@ -55,7 +55,7 @@ Currently working on:
 ## 📫 Contact
 
 - Discord: 1rynex_
-- Email: yankiaydin64@gmail.com
+
 
 ---
 
