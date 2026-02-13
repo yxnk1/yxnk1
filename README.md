@@ -37,9 +37,9 @@ Currently working on:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yxnk1&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yxnk1&layout=compact&theme=tokyonight)
 
 ---
 
@@ -54,8 +54,8 @@ Currently working on:
 
 ## 📫 Contact
 
-- Discord: yourname#0000
-- Email: yourmail@example.com
+- Discord: 1rynex_
+- Email: yankiaydin64@gmail.com
 
 ---
 
